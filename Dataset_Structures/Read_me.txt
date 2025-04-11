@@ -1,1 +1,3 @@
-This folder houses all .xyz files used for the study partioned by protein target
+This folder houses all .xyz files, SMILES strings, and biological 
+activity labels for the structures used for the study, 
+partitioned by the protein target
