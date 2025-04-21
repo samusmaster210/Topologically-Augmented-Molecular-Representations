@@ -1,1 +1,1 @@
-# Topologically-Augmented-MACCS-Keys-for-Biological-Activity-Classification
+# Topologically-Augmented-MACCS-Keys-for-Protein-Ligand-Classification
