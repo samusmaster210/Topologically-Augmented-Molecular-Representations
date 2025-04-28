@@ -1,5 +1,7 @@
 # **Topologically-Augmented-MACCS-Keys-for-Protein-Ligand-Classification**
 
+---
+
 
 # **Overview**
 
@@ -13,30 +15,22 @@ Integrating topology‐based descriptors into a classic cheminformatic fingerpri
 Persistence images capture each molecule's intrinsic geometry and connectivity, while MACCS Keys encode chemical substructures. Across all but one dataset, the TSV descriptor outperformed its individual components, achieving the highest average validation Matthews correlation coefficient of **0.7988**. In contrast, the **MACCS Keys’ score was 0.7075**, and the **TPI descriptor scored 0.7655**. These results show that adding topology-based features to classic fingerprints can boost classification reliability in computer-aided drug design.
 
 
-  ---
-
-
-# **Installation**
-
-
-The code is written in Python using Jupyter Notebook to execute the scripts. 
-
-
-
-
-
-
-
-
-
-
 ---
 
 
-# **Installation Help**
+# **Dataset Availability**
+The datasets used in this study are freely available because of the generosity and effort of the European Molecular Biology Laboratory (EMBL). Their website and repositories can be found here:
+
+https://www.ebi.ac.uk/chembl/
 
 
-The packages and their version numbers are explicitly listed here to aid in troubleshooting any conda environment problems
+---
+# **Installation**
+
+
+The code is written in Python using a conda environment. Jupyter Notebook was used as the GUI to execute the scripts. The packages and their version numbers are explicitly listed here to aid in troubleshooting any package issues. It is also highly advised to create a new conda environment with the specified Python version:
+
+
 
 - Python 3.9.22
 - Numpy 1.26.4
