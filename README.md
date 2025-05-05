@@ -1,5 +1,8 @@
 # **Topologically-Augmented-MACCS-Keys-for-Protein-Ligand-Classification**
 
+Authors: Johnathan W. Campbell, Konstantinos D. Vogiatzis
+University of Tennessee, Knoxville
+
 ---
 
 
