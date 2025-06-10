@@ -34,9 +34,7 @@ https://www.ebi.ac.uk/chembl/
 
 The code is written in Python using a conda environment. Jupyter Notebook was used as the GUI to execute the scripts. The packages and their version numbers are explicitly listed here to aid in troubleshooting any package issues. It is also highly advised to create a new conda environment with the specified Python version:
 
-
-conda create -n ENV_NAME python=3.9.22
-
+<pre><code>conda create -n ENV_NAME python=3.9.22</code></pre>
 
 - Python 3.9.22
 - Numpy 1.26.4
