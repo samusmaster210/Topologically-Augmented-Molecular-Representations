@@ -13,7 +13,8 @@ from scipy.stats import norm
 import scipy.spatial as spatial
 import matplotlib.pyplot as plt
 from matplotlib.cm import get_cmap
-
+import collections
+collections.Iterable = collections.abc.Iterable
 
 
 def Makexyzdistance(t):
