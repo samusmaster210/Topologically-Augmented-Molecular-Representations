@@ -4,6 +4,8 @@ Authors: Johnathan W. Campbell, Konstantinos D. Vogiatzis
 
 University of Tennessee, Knoxville
 
+For any questions, concerns, or comments on the project or code, please contact: jcamp124@vols.utk.edu
+
 ---
 
 
